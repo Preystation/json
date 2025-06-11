@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "naam": "Gevulde rode paprika met rundergehakt",
+    "ingredienten": [
+      { "hoeveelheid": 400, "ingredient": "Rode paprika" },
+      { "hoeveelheid": 800, "ingredient": "Rundergehakt" },
+      { "hoeveelheid": 15, "ingredient": "olijfolie" }
+    ],
+    "kruiden": [
+      { "hoeveelheid": 5, "ingredient": "zout" }
+    ],
+    "bereiding": {
+      "stap": "Oven voorverwarmen: Verwarm de oven voor op 180°C."
+    },
+    "maaltijdtype": "lunch",
+    "afbeelding": "",
+    "allergien": {
+      "lactose": false,
+      "gluten": false,
+      "noten": false,
+      "ei": false,
+      "soja": false,
+      "schaaldieren": false,
+      "vis": false,
+      "mosterd": false,
+      "selderij": false,
+      "sesamzaad": false,
+      "sulfiet": false,
+      "weekdieren": false,
+      "pinda": false
+    }
+  },
+  {
+    "id": 2,
+    "naam": "cheddar chips"
+  }
+]
