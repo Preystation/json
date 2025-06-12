@@ -33,6 +33,15 @@
   },
   {
     "id": 2,
-    "naam": "cheddar chips"
+    "naam": "cheddar chips",
+    "ingredienten":[
+      { "hoeveelheid": 10, "ingredient": "Cheddar kaas"}
+    ],
+    "kruiden":[],
+    "bereiding":[
+     { "stap":"Verwarm de oven voor op 180°C"},
+      {"stap":"Plaats de cheddar kaas op een ovenplaat en plaats het ind e oven voor 5 a 10 minuten"}
+    ],
+    "maaltijdtype":"snack"
   }
 ]
