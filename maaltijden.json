@@ -42,6 +42,22 @@
      { "stap":"Verwarm de oven voor op 180°C"},
       {"stap":"Plaats de cheddar kaas op een ovenplaat en plaats het ind e oven voor 5 a 10 minuten"}
     ],
-    "maaltijdtype":"snack"
+    "maaltijdtype":"snack",
+    "afbeelding": "",
+    "allergien": {
+      "lactose": true,
+      "gluten": false,
+      "noten": false,
+      "ei": false,
+      "soja": false,
+      "schaaldieren": false,
+      "vis": false,
+      "mosterd": false,
+      "selderij": false,
+      "sesamzaad": false,
+      "sulfiet": false,
+      "weekdieren": false,
+      "pinda": false
+    }
   }
 ]
